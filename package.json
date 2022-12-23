@@ -12,7 +12,7 @@
       "packages/*"
    ],
    "scripts": {
-      "start": "yarn --cwd backend start",
-      "build": "yarn --cwd frontend build"
+      "start": "yarn --cwd server start",
+      "build": "yarn --cwd client build"
    }
 }
